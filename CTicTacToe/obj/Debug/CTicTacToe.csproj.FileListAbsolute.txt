@@ -1,0 +1,10 @@
+C:\Users\tilda\source\repos\CTicTacToe\CTicTacToe\bin\Debug\CTicTacToe.exe.config
+C:\Users\tilda\source\repos\CTicTacToe\CTicTacToe\bin\Debug\CTicTacToe.exe
+C:\Users\tilda\source\repos\CTicTacToe\CTicTacToe\bin\Debug\CTicTacToe.pdb
+C:\Users\tilda\source\repos\CTicTacToe\CTicTacToe\obj\Debug\CTicTacToe.Form1.resources
+C:\Users\tilda\source\repos\CTicTacToe\CTicTacToe\obj\Debug\CTicTacToe.Properties.Resources.resources
+C:\Users\tilda\source\repos\CTicTacToe\CTicTacToe\obj\Debug\CTicTacToe.csproj.GenerateResource.cache
+C:\Users\tilda\source\repos\CTicTacToe\CTicTacToe\obj\Debug\CTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\tilda\source\repos\CTicTacToe\CTicTacToe\obj\Debug\CTicTacToe.exe
+C:\Users\tilda\source\repos\CTicTacToe\CTicTacToe\obj\Debug\CTicTacToe.pdb
+C:\Users\tilda\source\repos\CTicTacToe\CTicTacToe\obj\Debug\CTicTacToe.csproj.AssemblyReference.cache
