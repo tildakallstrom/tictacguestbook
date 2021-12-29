@@ -17,7 +17,7 @@ namespace CTicTacToe
         }
        
 
-        //if new game button is clicked - new game is started with the scoreboard from the last game
+        //if play again button is clicked - new game is started with the scoreboard from the last game
         private void NewGameToolStripMenuItem_Click(object sender, EventArgs e)
         {
             who = 'O';
